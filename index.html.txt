@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rechtsschutzversicherung Vergleich</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0; padding: 0;
+      background: #ffffff;
+      color: #1e293b;
+      line-height: 1.5;
+    }
+    header {
+      text-align: center;
+      padding: 1.5rem 1rem;
+      background: #f9fafb;
+    }
+    header h1 {
+      font-size: 1.2rem;
+      margin-bottom: 0.5rem;
+    }
+    header p {
+      font-size: 1rem;
+      color: #475569;
+    }
+    .btn {
+      display: block;
+      margin: 1rem auto;
+      padding: 1rem;
+      background: #16a34a;
+      color: #fff;
+      text-align: center;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 8px;
+      font-size: 1.1rem;
+      max-width: 90%;
+    }
+    .btn:hover { background: #15803d; }
+    section {
+      padding: 1.5rem 1rem;
+      max-width: 600px;
+      margin: auto;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 1rem 0;
+    }
+    ul li {
+      margin: 0.5rem 0;
+      font-size: 1rem;
+    }
+    ul li::before {
+      content: "✅ ";
+      color: #16a34a;
+    }
+    .trust-logos {
+      text-align: center;
+      margin: 1.5rem 0;
+    }
+    .trust-logos img {
+      height: 35px;
+      margin: 0 0.5rem;
+    }
+    .cost-box {
+      background: #f1f5f9;
+      padding: 1rem;
+      border-radius: 6px;
+      margin-top: 1rem;
+      font-size: 0.95rem;
+    }
+    .steps {
+      margin: 1.5rem 0;
+    }
+    .step {
+      background: #f9fafb;
+      padding: 0.8rem;
+      border-radius: 6px;
+      margin: 0.5rem 0;
+      font-size: 1rem;
+    }
+    footer {
+      background: #1e293b;
+      color: #fff;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.8rem;
+    }
+    footer a { color: #fff; text-decoration: underline; }
+  </style>
+</head>
+<body>
+
+  <!-- Hero -->
+  <header>
+    <h1>Kündigungsschutzklage? Mietstreit? Verkehrsunfall?</h1>
+    <p>Ohne Rechtsschutz kann das tausende Euro kosten.<br>
+       Schon ab <strong>&lt;100 € im Jahr</strong> absichern – dauert nur 2 Minuten!</p>
+    <a href="https://a.partner-versicherung.de/click.php?partner_id=189812&ad_id=15&deep=rechtsschutzversicherung&tracking-rechtsschutz" class="btn">Jetzt kostenlosen Vergleich starten</a>
+  </header>
+
+  <!-- Vorteile -->
+  <section>
+    <h2>Ihre Vorteile</h2>
+    <ul>
+      <li>Übernahme von Anwalts- & Gerichtskosten</li>
+      <li>Schutz bei Job, Miete & Verkehr</li>
+      <li>Bis zu 45 % im Jahr sparen</li>
+      <li>TÜV-geprüfter Anbieter, 4,5/5 Sterne</li>
+    </ul>
+
+    <div class="trust-logos">
+      <img src="https://via.placeholder.com/90x35?text=TÜV" alt="TÜV">
+      <img src="https://via.placeholder.com/90x35?text=ntv" alt="ntv">
+      <img src="https://via.placeholder.com/90x35?text=★★★★★" alt="Sterne">
+    </div>
+
+    <a href="https://a.partner-versicherung.de/click.php?partner_id=189812&ad_id=15&deep=rechtsschutzversicherung&tracking-rechtsschutz" class="btn">Vergleich starten</a>
+  </section>
+
+  <!-- Kosten -->
+  <section>
+    <h2>Warum Rechtsschutz?</h2>
+    <div class="cost-box">
+      ⚖️ Kündigungsschutzklage: 3.000–5.000 €<br>
+      🏠 Mietstreit: 1.500–3.000 €<br>
+      🚗 Verkehrsunfall: mehrere tausend €<br><br>
+      <strong>Mit Rechtsschutz: 0 €</strong>
+    </div>
+  </section>
+
+  <!-- Schritte -->
+  <section>
+    <h2>So einfach geht’s</h2>
+    <div class="steps">
+      <div class="step">1️⃣ Angaben machen</div>
+      <div class="step">2️⃣ Angebote vergleichen</div>
+      <div class="step">3️⃣ Wunschschutz wählen</div>
+    </div>
+    <a href="https://a.partner-versicherung.de/click.php?partner_id=189812&ad_id=15&deep=rechtsschutzversicherung&tracking-rechtsschutz" class="btn">Jetzt kostenlosen Vergleich starten</a>
+  </section>
+
+  <!-- FAQ -->
+  <section>
+    <h2>FAQ</h2>
+    <p><strong>Kostet der Vergleich etwas?</strong><br>Nein, 100 % kostenlos & unverbindlich.</p>
+    <p><strong>Wie lange dauert es?</strong><br>Nur 2 Minuten.</p>
+    <p><strong>Ist das seriös?</strong><br>Ja, TÜV-geprüft & tausende echte Bewertungen.</p>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    © 2025 Rechtsschutz Vergleich | 
+    <a href="#">Impressum</a> | 
+    <a href="#">Datenschutz</a>
+  </footer>
+
+</body>
+</html>
